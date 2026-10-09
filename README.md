@@ -172,3 +172,21 @@ Several limitations should be considered when interpreting the results:
 Faculty of Business and Administration
 Master's Program: Business Data Analysis (ADA)
 Academic Year: 2025–2026
+
+## Visual Results
+
+### Model Comparison
+
+![Machine Learning Model Comparison](figures/model_comparison.png)
+
+### Feature Importance
+
+![Random Forest Feature Importance](figures/feature_importance_random_forest.png)
+
+### EV Growth Forecast
+
+![EV Growth Forecast](figures/ev_growth_forecast.png)
+
+### Electric Range Distribution
+
+![Electric Range Distribution](figures/electric_range_distribution.png)
